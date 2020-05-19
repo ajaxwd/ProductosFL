@@ -1,8 +1,6 @@
-# TestCafePrueba
+# TestCafe
 
 Setup Parte3
 
 npm test
-
-testcafe...!
 
