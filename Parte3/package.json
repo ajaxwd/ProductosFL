@@ -1,0 +1,21 @@
+{
+    "name": "Parte3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "gherkin-testcafe chrome,ie node_modules/testcafe-cucumber-steps/index.js tests/step/*.js tests/feature/*.feature"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cucumber": "^6.0.5",
+        "gherkin-testcafe": "^2.5.0",
+        "testcafe": "^1.8.3",
+        "testcafe-cucumber-steps": "^1.8.4"
+    },
+    "dependencies": {
+        "node": "^14.2.0"
+    }
+}

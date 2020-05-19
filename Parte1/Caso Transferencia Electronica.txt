@@ -1,0 +1,6 @@
+Definir casos de prueba borde o limite, para la funcionalidad Transferencia Electrónica tomando en cuenta los criterios de aceptación que se indican:
+
+1- La primera transferencia a un nuevo contacto es de máximo $250.000. QA-1, QA-2
+2- A partir de la segunda transferencia, el monto puede ser de hasta $6.500.000 ok QA-3,QA-4, QA-5	
+3- El mínimo a transferir permitido es de $5.000
+4- El monto máximo total a transferir durante el día es de $18.000.000
