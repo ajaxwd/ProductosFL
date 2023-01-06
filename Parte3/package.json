@@ -12,7 +12,7 @@
     "devDependencies": {
         "cucumber": "^6.0.5",
         "gherkin-testcafe": "^2.5.0",
-        "testcafe": "^1.8.3",
+        "testcafe": "^1.20.1",
         "testcafe-cucumber-steps": "^1.8.4"
     },
     "dependencies": {
